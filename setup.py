@@ -22,4 +22,5 @@ setuptools.setup(
         "Operating System :: OS Independent",
     ],
     python_requires='>=3',
+    zip_safe=False,
 )
